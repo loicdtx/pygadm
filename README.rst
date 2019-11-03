@@ -21,7 +21,7 @@ Examples
     import gadm
 
     # Download and load administrative boundaries of Mexico at municipality level (level 2 in GADM database)
-    mex_fc = gadm.get_data(code='MEX', level=1)
+    mex_fc = gadm.get_data(code='MEX', level=2)
 
     print(len(fc))
     # 1854
