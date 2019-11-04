@@ -8,7 +8,7 @@ Install
 
 .. code-block:: bash
 
-    pip install git+https//github.com/loicdtx/pygadm.git
+    pip install git+https://github.com/loicdtx/pygadm.git
 
 
 
