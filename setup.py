@@ -16,7 +16,7 @@ with open('gadm/__init__.py') as f:
 
 
 extra_reqs = {'docs': ['sphinx',
-                       'sphinx-rtd-theme']}
+                       'furo']}
 
 with codecs.open('README.rst', encoding='utf-8') as f:
     readme = f.read()
