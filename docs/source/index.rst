@@ -77,12 +77,3 @@ Examples
     # 'type': 'Feature'}
 
     # If get does not hit any feature or hits more than one feature, it raises an exception
-
-
-
-
-
-
-
-
-
